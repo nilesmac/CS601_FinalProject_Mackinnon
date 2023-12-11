@@ -20,7 +20,7 @@ This website demonstrates the use of HTML for creating a static webpage. It incl
 
 ## Installation
 Option 1:
-    - Visit URL on Glitch: https://trail-confused-spatula.glitch.me
+    - Visit URL on Glitch: https://scarlet-exciting-eustoma.glitch.me
 Option 2:
     - Download extension Live Server
     - Right-click on index.html and select "Open with Live Server"
