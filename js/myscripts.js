@@ -54,8 +54,8 @@ window.onload = async () => {
 };
 
 function capitalizeTitle() {
-    var titleElement = document.getElementById("title");
-    var titleText = titleElement.textContent || titleElement.innerText;
+    let titleElement = document.getElementById("title");
+    let titleText = titleElement.textContent || titleElement.innerText;
     titleText = titleText.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
     titleElement.textContent = titleText;
 }
